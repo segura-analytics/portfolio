@@ -1,3 +1,1 @@
-
-*.pbix filter=lfs diff=lfs merge=lfs -text
-*.pbit filter=lfs diff=lfs merge=lfs -text
+# (Intentionally empty or only keep safe patterns)
