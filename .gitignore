@@ -20,3 +20,11 @@ venv/
 # Power BI caches (optional)
 *.pbix.refresh
 *.lock
+
+# Safety: never commit real data
+*.pbix
+*.xlsx
+*.xlsm
+*.accdb
+*.bak
+*.zip
